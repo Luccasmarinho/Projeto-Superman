@@ -118,9 +118,6 @@ nav a:hover {
     line-height: 25px;
 }
 
-
-
-
 .imagensserie p {
     font-size: 1.1rem;
     margin-bottom: 20px;
@@ -179,8 +176,6 @@ footer p {
         height: 500px;
     }
 
-
-
     #disponibilidade img,
     #disponibilidade p,
     #sinopse p {
@@ -198,6 +193,7 @@ footer p {
         justify-content: center;
         width: 80%;
         margin: 0 auto;
+        margin-bottom: 20px;
     }
 }
 
@@ -221,6 +217,11 @@ footer p {
 
     header h2 {
         margin: 0;
+    }
+
+    #sinopse p {
+        
+        text-align: left;
     }
 }
 
